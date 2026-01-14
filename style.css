@@ -187,7 +187,7 @@ nav ul li a {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url("/sc.jpg");
+  background: url("sc.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -334,4 +334,5 @@ button:hover{
 }
 #i{
   color: rgb(194, 63, 85) !important;
+
 }
